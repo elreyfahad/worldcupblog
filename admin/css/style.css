@@ -1,0 +1,9 @@
+#admin-nav {
+  margin: 10px 0;
+  white-space: nowrap;
+}
+
+.number {
+  display: inline-block;
+  width: 60px;
+}

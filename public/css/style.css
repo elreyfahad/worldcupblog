@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+body {
+  font-family: 'Roboto', Arial;
+}
+
+h2 a:hover{
+  text-decoration: none;
+}
+
+.header-background {
+  background: url(../images/teams.jpg) no-repeat center center;
+ background-size: cover;
+  text-align: center;
+  padding: 100px 10px;
+}
+
+.blog-header {
+  background: rgba(0, 0, 0, .5);
+  padding: 0 10px 10px;
+  display: inline-block;
+  color: #fff;
+  border-radius: 6px;
+}
+
+.post-content {
+  line-height: 25px;
+  padding: 0 10px;
+  text-align: justify;
+}
+
+.page-footer {
+  text-align: center;
+}
+
+#about_author p{
+  text-indent: 20px;
+}
+
+#login, #error {
+  max-width: 330px;
+  margin: 100px auto 0;
+}
