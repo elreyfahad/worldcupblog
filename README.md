@@ -1,7 +1,7 @@
 # World Cup Blog 2018 : 
 Un moteur de blog en PHP et MySQL construit sur une architecture MVC et adopte la POO. 
 
-Fonctionnalités
+# Fonctionnalités :
 ## I. Frontend
 Lecture d'articles
 Ajout de commentaires sur les articles.
