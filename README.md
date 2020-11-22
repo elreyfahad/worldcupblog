@@ -1,4 +1,4 @@
-# World Cup Blog 2018 : https://worldcupblog2018.000webhostapp.com/
+# World Cup Blog 2018 : 
 Un moteur de blog en PHP et MySQL construit sur une architecture MVC et adopte la POO. 
 
 Fonctionnalités
@@ -15,3 +15,5 @@ Suppression d'articles.
 Modération des commentaires.
 Gérer le titre et la description du blog, et le nombre d’articles et commentaires dans une page.
 Gérer le profil d'auteur
+
+Lien : https://worldcupblog2018.000webhostapp.com/
